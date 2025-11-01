@@ -2,9 +2,13 @@
 
 Convert AI and ML research papers into runnable code using free AI tools!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Username1234jj/Paper2Code/blob/main/Paper2code.ipynb)
-
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Username1234jj/Paper2Code/blob/main/Paper2code.ipynb)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![AI](https://img.shields.io/badge/AI%20%26%20ML-Research-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-orange.svg)
+
 
 ## 📘 Overview
 
